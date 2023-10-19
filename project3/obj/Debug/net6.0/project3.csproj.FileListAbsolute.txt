@@ -1,0 +1,15 @@
+F:\lk1\project3\bin\Debug\net6.0\project3.exe
+F:\lk1\project3\bin\Debug\net6.0\project3.deps.json
+F:\lk1\project3\bin\Debug\net6.0\project3.runtimeconfig.json
+F:\lk1\project3\bin\Debug\net6.0\project3.dll
+F:\lk1\project3\bin\Debug\net6.0\project3.pdb
+F:\lk1\project3\obj\Debug\net6.0\project3.csproj.AssemblyReference.cache
+F:\lk1\project3\obj\Debug\net6.0\project3.GeneratedMSBuildEditorConfig.editorconfig
+F:\lk1\project3\obj\Debug\net6.0\project3.AssemblyInfoInputs.cache
+F:\lk1\project3\obj\Debug\net6.0\project3.AssemblyInfo.cs
+F:\lk1\project3\obj\Debug\net6.0\project3.csproj.CoreCompileInputs.cache
+F:\lk1\project3\obj\Debug\net6.0\project3.dll
+F:\lk1\project3\obj\Debug\net6.0\refint\project3.dll
+F:\lk1\project3\obj\Debug\net6.0\project3.pdb
+F:\lk1\project3\obj\Debug\net6.0\project3.genruntimeconfig.cache
+F:\lk1\project3\obj\Debug\net6.0\ref\project3.dll
