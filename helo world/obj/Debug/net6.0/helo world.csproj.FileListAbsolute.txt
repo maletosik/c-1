@@ -1,0 +1,15 @@
+F:\lk1\helo world\bin\Debug\net6.0\helo world.exe
+F:\lk1\helo world\bin\Debug\net6.0\helo world.deps.json
+F:\lk1\helo world\bin\Debug\net6.0\helo world.runtimeconfig.json
+F:\lk1\helo world\bin\Debug\net6.0\helo world.dll
+F:\lk1\helo world\bin\Debug\net6.0\helo world.pdb
+F:\lk1\helo world\obj\Debug\net6.0\helo world.csproj.AssemblyReference.cache
+F:\lk1\helo world\obj\Debug\net6.0\helo world.GeneratedMSBuildEditorConfig.editorconfig
+F:\lk1\helo world\obj\Debug\net6.0\helo world.AssemblyInfoInputs.cache
+F:\lk1\helo world\obj\Debug\net6.0\helo world.AssemblyInfo.cs
+F:\lk1\helo world\obj\Debug\net6.0\helo world.csproj.CoreCompileInputs.cache
+F:\lk1\helo world\obj\Debug\net6.0\helo world.dll
+F:\lk1\helo world\obj\Debug\net6.0\refint\helo world.dll
+F:\lk1\helo world\obj\Debug\net6.0\helo world.pdb
+F:\lk1\helo world\obj\Debug\net6.0\helo world.genruntimeconfig.cache
+F:\lk1\helo world\obj\Debug\net6.0\ref\helo world.dll
